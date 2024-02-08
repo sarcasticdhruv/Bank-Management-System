@@ -27,7 +27,7 @@ This is a simple Bank Management System / ATM (Automated Teller Machine) system 
    git clone https://github.com/sarcasticdhruv/Bank-Management-System.git
    ```
 
-2. Set up the PostgreSQL database by executing the provided SQL script (`database.sql`).
+2. Set up the PostgreSQL database by executing the provided SQL script (`db.sql`).
 
     ```bash
     psql database.sql
